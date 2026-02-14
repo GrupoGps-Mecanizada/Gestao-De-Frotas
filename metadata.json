@@ -1,0 +1,5 @@
+{
+  "name": "Gestão De Frota",
+  "description": "Dashboard de monitoramento de frota e telemetria conectado ao Google Apps Script",
+  "requestFramePermissions": []
+}
